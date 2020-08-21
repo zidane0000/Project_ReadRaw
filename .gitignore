@@ -1,0 +1,21 @@
+#ignore the AutoPCH
+/.vs/ZoroEX/v16/ipch
+
+#ignore Win32 and x64 all .db .csv .txt .bmp .raw
+/Win32/Debug/*.db
+/Win32/Debug/*.txt
+/Win32/Debug/*.csv
+/Win32/Debug/*.bmp
+/Win32/Debug/*.raw
+/Win32/Release/*.db
+/Win32/Release/*.txt
+/Win32/Release/*.csv
+/Win32/Release/*.bmp
+/Win32/Release/*.raw
+
+#ignore src all .db .cvs .txt .bmp .raw
+/src/*.db
+/src/*.txt
+/src/*.csv
+/src/*.bmp
+/src/*.raw
