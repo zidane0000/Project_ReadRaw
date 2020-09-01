@@ -8,6 +8,10 @@
 -------
 ## Version
 
-> FileVersion: 2008,20,1,0 [2020年06月08日第1整合(0)版]
+> FileVersion: 2008,20,1,0 [2020年08月10日第1.0版]
   ProjectVersion: 1.0.0.0
   Release Date:   2020.08.20
+  
+> FileVersion: 2009,01,1,1 [2020年09月01日第1.1版]
+  ProjectVersion: 1.1.0.0
+  Release Date:   2020.09.01

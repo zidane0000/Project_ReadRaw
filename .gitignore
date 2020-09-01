@@ -1,5 +1,5 @@
 #ignore the AutoPCH
-/.vs
+.vs
 
 #ignore Win32 and x64 all .db .csv .txt .bmp .raw
 /Win32/Debug/*.db
