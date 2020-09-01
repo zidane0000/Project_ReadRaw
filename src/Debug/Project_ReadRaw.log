@@ -1,1 +1,9 @@
-﻿  Project_ReadRaw.vcxproj -> E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\Debug\Project_ReadRaw.exe
+﻿  main.cpp
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(220,32): warning C4244: '=': conversion from 'ushort' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(296,20): warning C4018: '<': signed/unsigned mismatch
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(254): warning C4715: 'BayerConvert': not all control paths return a value
+  Project_ReadRaw.vcxproj -> E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\Debug\Project_ReadRaw.exe

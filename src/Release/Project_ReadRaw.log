@@ -1,4 +1,14 @@
 ﻿  main.cpp
-E:\Dave\New_Zoro_Enviroment\3part\OpenCV-4.2.0\include\opencv2\flann\saving.h(92,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\Dave\New_Zoro_Enviroment\3part\OpenCV-4.2.0\include\opencv2\flann\saving.h(94,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(220,32): warning C4244: '=': conversion from 'ushort' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(296,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\src\main.cpp(254): warning C4715: 'BayerConvert': not all control paths return a value
+  819 of 1109 functions (73.9%) were compiled, the rest were copied from previous compilation.
+    722 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project_ReadRaw.vcxproj -> E:\Dave\New_Zoro_Enviroment\Project_ReadRaw\Release\Project_ReadRaw.exe
